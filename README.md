@@ -5,4 +5,4 @@ An environment monitoring jupyter notebooks that gets data from your Pi and send
 
 Check out more of my projects at <a href="https://github.com/apzzd" >my github home page.</a>
 
-🥧🥧🥧🥧🥧
+🥧👩‍💻🥧👩‍💻🥧👩‍💻🥧👩‍💻🥧
